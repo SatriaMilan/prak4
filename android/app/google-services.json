@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "349431754917",
+    "project_id": "hilmy-boss",
+    "storage_bucket": "hilmy-boss.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349431754917:android:7601eb1e8de252f551dd4c",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc-ufEIgAepuvQESM575awVrtcrVsRbis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
